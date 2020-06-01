@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "JEE Advanced 2016"
+  organization = "JEE Advanced 2019"
   organization_url = ""
   title = "All India Rank 252"
   url = ""
