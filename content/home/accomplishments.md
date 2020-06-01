@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-27"
   date_end = ""
   description = """
-* Achieved a rank of 252 out of 200,000 candidates.
+* Achieved a rank of 252 out of 230,000 candidates.
 * JEE Advanced is an entrance exam to get an admit into IITs, the premier engineering institutes in India, with a selection percentage of only 5%. 
 """
 
