@@ -32,7 +32,10 @@ url_video: ""
 
 Summaries by me:
 
-- [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GrokNet.md)
-- [You Only Train Once : Loss-conditional training of deep networks](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/You_only_train_once.md)
+- [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce, KDD 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GrokNet.md)
+
+- [You Only Train Once : Loss-conditional training of deep networks, ICLR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/You_only_train_once.md)
+
+- [Semantically multi-modal image synthesis, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Semantically_multi-modal_image_synthesis.md)
 
 
