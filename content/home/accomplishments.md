@@ -32,6 +32,18 @@ date_format = "Jan 2006"
 """
 
 [[item]]
+  organization = "JEE Main 2019"
+  organization_url = ""
+  title = "All India Rank 454"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-30"
+  date_end = ""
+  description = """
+* Achieved a rank of 454 out of 1,000,000 candidates.
+* JEE Main is a national level undergraduate entrance examination in India. JEE Main is to provide admission to various engineering and architecture courses offered by NITs, IIITs, CFTIs, and various other private institutions. Clearing JEE Main is required to attempt JEE Advanced."""
+
+[[item]]
   organization = "Goverment of India"
   organization_url = ""
   title = "KVPY Fellowship Awardee"
