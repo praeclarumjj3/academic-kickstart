@@ -74,5 +74,5 @@ email: ""
 
 I am a freshman CS undergraduate at the Indian Institute of Technology Roorkee. I am largely interested in Deep Learning, with applications in Computer Vision and Natural Language Processing. 
 
-At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of a Android Application Development based group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
+At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of an Android Application Development group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
 
