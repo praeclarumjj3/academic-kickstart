@@ -62,6 +62,6 @@ Science and Government of INDIA to students who show high aptitude in research."
   certificate_url = ""
   date_start = "2017-08-23"
   date_end = ""
-  description = """NTSE (National Talent Search Examination) 2020 is a National Level Examination conducted by NCERT to provide the scholarship to the deserving candidates. This exam is for secondary school level to identify and recognize students with high intellect and skills."""
+  description = """NTSE (National Talent Search Examination) is a National Level Examination conducted by NCERT to provide the scholarship to the deserving candidates. This exam is for secondary school level to identify and recognize students with high intellect and skills."""
 
 +++
