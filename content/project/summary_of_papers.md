@@ -4,7 +4,7 @@ subtiltle:
 summary: "Summaries of a few papers"
 tags:
 - Deep Learning
-date: "2020-05-20T00:00:00Z"
+date: "2020-06-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,4 +38,4 @@ Summaries by me:
 
 - [Semantically multi-modal image synthesis, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Semantically_multi-modal_image_synthesis.md)
 
-
+- [Learning to Simulate Dynamic Environments with GameGAN, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GameGAN.md)

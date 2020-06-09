@@ -18,7 +18,7 @@ organizations:
   url: "http://iitr.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A diligent deep learning enthusiast, diving deep into the world of Artificial Intelligence, trying to find solutions to the unanswered problems in the field of AI to help humanity.
 
 interests:
 - Deep Learning

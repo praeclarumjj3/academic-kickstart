@@ -1,6 +1,6 @@
 ---
 title: Societyfy
-summary: Developing an android app for connecting people
+summary: An android app for connecting people
 tags:
 - Android
 date: "2020-04-08T00:00:00Z"
