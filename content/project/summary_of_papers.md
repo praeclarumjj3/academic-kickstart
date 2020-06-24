@@ -32,10 +32,15 @@ url_video: ""
 
 Summaries by me:
 
-- [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce, KDD 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GrokNet.md)
 
 - [You Only Train Once : Loss-conditional training of deep networks, ICLR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/You_only_train_once.md)
+
+- [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce, KDD 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GrokNet.md)
 
 - [Semantically multi-modal image synthesis, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Semantically_multi-modal_image_synthesis.md)
 
 - [Learning to Simulate Dynamic Environments with GameGAN, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/GameGAN.md)
+
+- [ADVERSARIAL POLICIES : ATTACKING DEEP REINFORCEMENT LEARNING](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Adversarial_RL.md)
+
+- [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Unsupervised_deformable_3D/summaries/Unsupervised_learning_for_3D_objects_from_images.md)
