@@ -44,3 +44,5 @@ Summaries:
 - [Adversarial Policies : Attacking deep reinforcement learning, ICLR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Adversarial_RL.md)
 
 - [Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/Unsupervised_learning_for_3D_objects_from_images.md)
+
+- [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning, CVPR 2020](https://github.com/vlgiitr/papers_we_read/blob/master/summaries/BYOL.md)
