@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 1st Year CS Undergraduate
+role: 2nd Year CS Undergraduate
 
 # Organizations/Affiliations
 organizations:
