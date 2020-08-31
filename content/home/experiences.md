@@ -7,7 +7,6 @@ weight = 75  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
-
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -24,10 +23,12 @@ date_format = "Jan 2006"
   company_url = "https://filterpixel.com/"
   location = "New Delhi"
   date_start = "2020-07-02"
-  date_end = ""
+  date_end = "2020-09-02"
   description = """
 - FilterPixel aims at automating the **photo culling** process to aid professional photographers.
-- Involved in developing ML/DL models for classifying images based on exposure, closed/open eyes, etc.
+- Developed ML models for classifying images based on their exposure, blurrines, etc.
+- Worked on integrating the models with the software.
+- Setup an automated-retraining pipeline using the Google Cloud Scheduler for weekly re-training of the models with new data.
 """
 
 [[experience]]
