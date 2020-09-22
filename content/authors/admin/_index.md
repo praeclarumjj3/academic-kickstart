@@ -72,7 +72,7 @@ email: ""
 #- Visitors
 ---
 
-I am a CS sophomore at the Indian Institute of Technology Roorkee. I am largely interested in Deep Learning, with applications in Computer Vision and Natural Language Processing. 
+I am a CS sophomore at the Indian Institute of Technology Roorkee. I am a diligent Deep Learning enthusiast, diving deep into the world of Artificial Intelligence, trying to find solutions to the unanswered problems in the field of AI to help humanity.
 
 At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of an Android Application Development group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
 
