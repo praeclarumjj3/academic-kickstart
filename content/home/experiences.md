@@ -29,5 +29,6 @@ date_format = "Jan 2006"
 - Developed ML models for classifying images based on their exposure, blurrines, etc.
 - Worked on integrating the models with the software.
 - Setup an automated-retraining pipeline using the Google Cloud Scheduler for weekly re-training of the models with new data.
+- [Letter of Recommendation](https://drive.google.com/file/d/1xJ0p8pYX4rOSBdi9CIVnEnFIeTiE094T/view?usp=sharing)
 """
 +++
