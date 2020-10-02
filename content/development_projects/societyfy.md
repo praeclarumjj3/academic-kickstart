@@ -18,8 +18,8 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: "https://github.com/praeclarumjj3/SOCIETYFY"
-url_app: ""
-url_blog: ""
+url_app: "https://play.google.com/store/apps/details?id=in.ac.mdg.iitr.societyfy"
+url_blog: "https://medium.com/mobile-development-group/societyfy-an-app-made-for-finding-company-at-anytime-for-anything-842e18151551"
 url_video: ""
 
 # Slides (optional).

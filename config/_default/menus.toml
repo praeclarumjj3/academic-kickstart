@@ -11,7 +11,7 @@
 [[main]]
   name = "Blogs"
   url = "#posts"
-  weight = 35
+  weight = 40
 
 [[main]]
   name = "Publications"
@@ -24,6 +24,11 @@
   weight = 30
 
 [[main]]
+  name = "Android Projects"
+  url = "#dev_projects"
+  weight = 35
+
+[[main]]
   name = "Experience"
   url = "#experiences"
   weight = 20
@@ -31,7 +36,7 @@
 [[main]]
   name = "Accomplishments"
   url = "#accomplishments"
-  weight = 40
+  weight = 45
 
 [[main]]
   name = "Contact"

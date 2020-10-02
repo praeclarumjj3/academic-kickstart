@@ -3,15 +3,15 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 35  # Order that this section will appear.
 count = 3
-offset = 1
-title = "Projects"
-subtitle = "Deep Learning Section"
+offset = 0
+title = "Android Projects"
+subtitle = "Development Section"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "development_projects"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -20,7 +20,7 @@ subtitle = "Deep Learning Section"
   # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 1
+  filter_default = 3
   
   # [[content.filter_button]]
   #   name = "All"

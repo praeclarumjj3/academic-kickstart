@@ -1,9 +1,10 @@
 ---
-title: Time Trace
-summary: A flutter app to help people keep track of their time 
+title: "IITR ChatBot"
+subtiltle: 
+summary: "Project Leader"
 tags:
-- Android
-date: "2020-04-27T00:00:00Z"
+- Deep Learning
+date: "2020-09-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,9 +18,9 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/praeclarumjj3/Time-Trace"
-url_app: ""
-url_blog: ""
+url_code: "https://github.com/praeclarumjj3/RASA_toy"
+url_pdf: ""
+url_slides: ""
 url_video: ""
 
 # Slides (optional).
@@ -27,9 +28,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
 ---
 
-A Flutter application developed as a self-learning project to help people keep track of their time expenditure. 
+We are developing an assistance bot for the [IITR website](https://www.iitr.ac.in/) using the [RASA](https://rasa.com/docs/rasa/) framework.
 
 
