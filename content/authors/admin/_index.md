@@ -22,6 +22,7 @@ bio: A diligent deep learning enthusiast, diving deep into the world of Artifici
 
 interests:
 - Deep Learning
+- Self-Supervised Learning
 - Reinforcement Learning
 - Computer Vision
 - Natural Language Processing
@@ -47,12 +48,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/praeclarumjj3
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/jitesh-jain-1451b9192/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=nygnfNwAAAAJ
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/praeclarumjj
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@jitesh_j
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
