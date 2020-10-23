@@ -56,7 +56,7 @@ social:
   link: https://www.facebook.com/praeclarumjj
 - icon: medium
   icon_pack: fab
-  link: https://medium.com/@jitesh_j
+  link: https://jitesh-j.medium.com/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
