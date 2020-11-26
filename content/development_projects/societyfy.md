@@ -35,4 +35,3 @@ SOCIETYFY is an app showcase app developed during MDG’s SoC event in December,
 **PlayStore Link**: https://play.google.com/store/apps/details?id=in.ac.mdg.iitr.societyfy
 
 **Medium Blog**: [ Societyfy: An app made for finding company at any time for anything](https://medium.com/mobile-development-group/societyfy-an-app-made-for-finding-company-at-anytime-for-anything-842e18151551)
-

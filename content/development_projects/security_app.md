@@ -33,4 +33,3 @@ slides: ""
 - IITR Security App was developed to eliminate the use of paper by the guards to record the details of the visitors at IIT Roorkee.
 - I worked on developing Front-End part of the app using Flutter.
 - **Playstore Link**: https://play.google.com/store/apps/details?id=in.ac.iitr.mdg.securityapp 
-

@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 35  # Order that this section will appear.
 count = 3
 offset = 0
-title = "Android Projects"
+title = "Dev Projects"
 subtitle = "Development Section"
 
 [content]

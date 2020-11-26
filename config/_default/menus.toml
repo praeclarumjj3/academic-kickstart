@@ -24,7 +24,7 @@
   weight = 30
 
 [[main]]
-  name = "Android Projects"
+  name = "Dev Projects"
   url = "#dev_projects"
   weight = 35
 

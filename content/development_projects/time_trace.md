@@ -31,5 +31,3 @@ slides: ""
 ---
 
 A Flutter application developed as a self-learning project to help people keep track of their time expenditure. 
-
-

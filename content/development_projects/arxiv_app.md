@@ -1,9 +1,9 @@
 ---
-title: Geofile
-summary: A Flutter Application providing the location-based file sharing service.
+title: ArxivApp
+summary: A Flutter App to help people keep track of their research papers 
 tags:
 - Flutter
-date: "2020-04-05T00:00:00Z"
+date: "2020-11-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,7 +17,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: ""
+url_code: "https://github.com/praeclarumjj3/ArxivAppFrontend"
 url_app: ""
 url_blog: ""
 url_video: ""
@@ -30,6 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-- Geofile lets you couple files them with a specific location.
-- I worked on developing Front-End part of the app using Flutter.
-- **Playstore Early Access**: You can test the beta version on the Playstore by searching for **geofile**. 
+**ArxivApp** lets you read, bookmark and download papers from arXiv.org. It also has a forum screen that lets you read and create notes/blogs about the different research papers you read! 
