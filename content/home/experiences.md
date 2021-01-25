@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Visiting Student Researcher"
+  company = "SHI Lab, University of Oregon"
+  company_url = "https://www.humphreyshi.com/people"
+  location = "Eugene, Oregon (Remote)"
+  date_start = "2020-11-22"
+  date_end = ""
+  description = """
+- Working with [Professor Humphrey Shi](https://www.humphreyshi.com/home).
+
+- Current research on **Real-Time Semantic Segmentation**.
+
+- Also working on an *Image Editing using Deep Learning project*.
+"""
+
+[[experience]]
   title = "ML Engineer Intern"
   company = "FilterPixel"
   company_url = "https://filterpixel.com/"
@@ -26,9 +41,11 @@ date_format = "Jan 2006"
   date_end = "2020-09-02"
   description = """
 - FilterPixel aims at automating the **photo culling** process to aid professional photographers.
-- Developed ML models for classifying images based on their exposure, blurrines, etc.
-- Worked on integrating the models with the software.
+
+- Developed ML models for classifying images based on their exposure and blurrines.
+
 - Setup an automated-retraining pipeline using the Google Cloud Scheduler for weekly re-training of the models with new data.
+
 - [Letter of Recommendation](https://drive.google.com/file/d/1xJ0p8pYX4rOSBdi9CIVnEnFIeTiE094T/view?usp=sharing)
 """
 +++

@@ -22,8 +22,8 @@ bio: A diligent deep learning enthusiast, diving deep into the world of Artifici
 
 interests:
 - Deep Learning
+- Semantic Segmentation
 - Self-Supervised Learning
-- Reinforcement Learning
 - Computer Vision
 - Natural Language Processing
 - Flutter App Development
@@ -81,5 +81,7 @@ I am a CS sophomore at the Indian Institute of Technology Roorkee. I am a dilige
 Currently, I am working as a **Visiting Student Researcher** at the [SHI Lab, University of Oregon](https://www.humphreyshi.com/people) under **Professor Humphrey Shi**.
 
 At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of an Android Application Development group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
+
+To relax my mind amidst the madness that goes around the world, I listen to pop music and read books (mainly philosphical). I am one of those people who follows cricket as a religion. Do contact me if you want to discuss about pop-music, a little philosphy, cricket or just ping me, we will find a topic!
 
 
