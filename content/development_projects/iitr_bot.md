@@ -18,7 +18,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/praeclarumjj3/RASA_toy"
+url_code: "https://github.com/mdg-iitr/IITR_ChatBot"
 url_pdf: ""
 url_slides: ""
 url_video: ""
