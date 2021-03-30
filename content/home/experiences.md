@@ -25,11 +25,13 @@ date_format = "Jan 2006"
   date_start = "2020-11-22"
   date_end = ""
   description = """
-- Working with [Professor Humphrey Shi](https://www.humphreyshi.com/home).
+- Working with **[Professor Humphrey Shi](https://www.humphreyshi.com/home)**.
 
-- Current research on **Real-Time Semantic Segmentation**.
+- Leading a project on **Object Level Image Editing**.
 
-- Also working on an *Image Editing using Deep Learning project*.
+- Performed a Survey on Semantic Segmentation works. The Presentation can be found [here](https://docs.google.com/presentation/d/1YS7EZfDWmDP15eK67INrqsIYjHdq2wODDtIQQ9-3Yik/edit?usp=sharing).
+
+- Conducted Experiments on various backbone networks to evaluate their inference‑time performance.
 """
 
 [[experience]]

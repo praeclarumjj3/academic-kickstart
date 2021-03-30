@@ -44,7 +44,7 @@ social:
   link: 'mailto:jitesh_j@cs.iitr.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jiteshjain31
+  link: https://twitter.com/praeclarumjj
 - icon: github
   icon_pack: fab
   link: https://github.com/praeclarumjj3
