@@ -1,10 +1,10 @@
 ---
-title: "IITR ChatBot"
+title: "granim"
 subtiltle: 
-summary: "Chatbot for the IITR Website"
+summary: "A Python Package for graph plotting using Manim Engine"
 tags:
-- Deep Learning
-date: "2020-09-28T00:00:00Z"
+- Manim
+date: "2021-04-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +18,7 @@ image:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/mdg-iitr/IITR_ChatBot"
+url_code: "https://github.com/praeclarumjj3/granim"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -30,6 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-We developed an assistance bot for the [IITR website](https://www.iitr.ac.in/) using the [RASA](https://rasa.com/docs/rasa/) framework.
+**granim** makes it easier to plot animated graphs using the Manim-Engine. This project is still under development. Contributors are always welcome!
 
 
