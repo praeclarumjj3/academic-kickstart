@@ -22,10 +22,9 @@ bio: A diligent deep learning enthusiast, diving deep into the world of Artifici
 
 interests:
 - Deep Learning
-- Semantic Segmentation
-- Self-Supervised Learning
 - Computer Vision
-- Natural Language Processing
+- Image Inpainting
+- Self-Supervised Learning
 - Flutter App Development
 
 education:
@@ -82,6 +81,6 @@ Currently, I am working as a **Visiting Student Researcher** at the [SHI Lab, Un
 
 At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of an Android Application Development group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
 
-To relax my mind amidst the madness that goes around the world, I listen to pop music and read books (mainly philosphical). I am one of those people who follows cricket as a religion. Do contact me if you want to discuss about pop-music, a little philosphy, cricket or just ping me, we will find a topic!
+To relax my mind amidst the madness that goes around the world, I listen to pop music, read books, or write blogs. I am one of those people who follows cricket as a religion. Contact me if you want to discuss about pop-music, books, cricket or just ping me, we will find a topic!
 
 
