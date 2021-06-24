@@ -24,6 +24,7 @@ interests:
 - Deep Learning
 - Computer Vision
 - Image Inpainting
+- Real-Time Segmentation
 - Self-Supervised Learning
 - Flutter App Development
 
@@ -77,7 +78,9 @@ email: ""
 
 I am a CS sophomore at the Indian Institute of Technology Roorkee. I am a diligent Deep Learning enthusiast, diving deep into the world of Artificial Intelligence, trying to find solutions to the unanswered problems in the field of AI to help humanity.
 
-Currently, I am working as a **Visiting Student Researcher** at the [SHI Lab, University of Oregon](https://www.humphreyshi.com/people) under **Professor Humphrey Shi**.
+Currently, I am working as a **Visiting Student Researcher** at the [SHI Lab, University of Oregon](https://www.humphreyshi.com/people) with **Professor Humphrey Shi**. 
+
+I am also working as a **Research Intern** with the [PicsArt AI Research (PAIR)](https://www.picsart.ai/) team at [PicsArt](https://picsart.com/photo-editor).
 
 At IIT Roorkee, I am a member of a Deep Learning-centric discussion group named the [Vision and Language Group](https://vlgiitr.github.io). I am also a member of an Android Application Development group named the [Mobile Development Group](https://mdg.iitr.ac.in/).
 

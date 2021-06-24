@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Intern"
+  company = "PicsArt"
+  company_url = "https://picsart.com/photo-editor"
+  location = "Bangalore, India (Remote)"
+  date_start = "2021-06-01"
+  date_end = ""
+  description = """
+- Part of the [PicsArt AI Research (PAIR)](https://www.picsart.ai/) team.
+
+- Working on a project for **Real-Time Segmentation**.
+"""
+
+
+[[experience]]
   title = "Visiting Student Researcher"
   company = "SHI Lab, University of Oregon"
   company_url = "https://www.humphreyshi.com/people"
@@ -28,10 +42,6 @@ date_format = "Jan 2006"
 - Working with **[Professor Humphrey Shi](https://www.humphreyshi.com/home)**.
 
 - Leading a project on **Object Level Image Editing**.
-
-- Performed a Survey on Semantic Segmentation works. The Presentation can be found [here](https://docs.google.com/presentation/d/1YS7EZfDWmDP15eK67INrqsIYjHdq2wODDtIQQ9-3Yik/edit?usp=sharing).
-
-- Conducted Experiments on various backbone networks to evaluate their inference‑time performance.
 """
 
 [[experience]]
@@ -44,7 +54,7 @@ date_format = "Jan 2006"
   description = """
 - FilterPixel aims at automating the **photo culling** process to aid professional photographers.
 
-- Developed ML models for classifying images based on their exposure and blurrines.
+- Developed ML models for classifying images based on their exposure and blurriness.
 
 - Setup an automated-retraining pipeline using the Google Cloud Scheduler for weekly re-training of the models with new data.
 
